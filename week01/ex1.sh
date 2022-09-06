@@ -1,3 +1,5 @@
+mkdir ∼/week1
+cd week1
 ls /usr/bin > list
 grep gcc list > list2
 ls | tail -n 5 list2 > list3
