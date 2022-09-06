@@ -1,0 +1,137 @@
+    1  man man
+    2  dir
+    3  make dir
+    4  makedir
+    5  cd~
+    6  cd ~
+    7  clean
+    8  clear
+    9  cd
+   10  dir
+   11  bash moaid.sh
+   12  nano
+   13  touch
+   14  touch --help
+   15  touch namelist
+   16  ls
+   17  nano
+   18  ls
+   19  namelist
+   20  getit name.txt
+   21  gedit name.txt
+   22  jobs
+   23  stdin > notes
+   24  stdin --help
+   25  mkdir > week1
+   26  mkdir > /week1
+   27  mkdir /week1
+   28  mkdir ~/week1
+   29  ls
+   30  cd week1
+   31  mkdir ~/week1
+   32  ls
+   33  cd week1
+   34  ls
+   35  cd
+   36  history
+   37  nano
+   38  gcc
+   39  sudo apt install gcc
+   40  gcc
+   41  vi ex.sh
+   42  vi exs.sh
+   43  ls
+   44  namelist
+   45  gedit namelist
+   46  sort -n -r namelist > namelist.sorted
+   47  gedit namelist.sorted
+   48  getdit main.c
+   49  getdit /main.c
+   50  getdit ~/main.c
+   51  getdit ~ /main.c
+   52  getdit ~/week1/main.c
+   53  gedit main.c
+   54  gcc main.c -o ex4
+   55  ./ex4
+   56  sudo snap brave
+   57  sudo snap install brave
+   58  git
+   59  sudo apt install git
+   60  cd
+   61  git clone https://github.com/MoaidHashem3/OS_Assignments_2022.git
+   62  git --help\
+   63  [200~gh repo clone MoaidHashem3/OS_Assignments_2022~
+   64  git gh repo clone MoaidHashem3/OS_Assignments_2022
+   65  git clone git@github.com:MoaidHashem3/OS_Assignments_2022.git
+   66  git clone [200~https://github.com/MoaidHashem3/OS_Assignments_2022.git~
+   67  git clone https://github.com/MoaidHashem3/OS_Assignments_2022.git
+   68  clear
+   69  gedit ~ /week1/main.c
+   70  cd
+   71  ls
+   72  cd week1
+   73  ls
+   74  gedit main.c
+   75  ls
+   76  gcc main.c -o ex4
+   77  ./ex4
+   78  ls
+   79  gedit ex4
+   80  n
+   81  clear
+   82  ls
+   83  cd
+   84  cd week1
+   85  ls
+   86  echo "Almoaid"
+   87  ls
+   88  cd
+   89  cd week 1
+   90  cd week1
+   91  ./ex4
+   92  hostory > ex2.txt
+   93  history > ex2.txt
+   94  ls
+   95  cat ex3.txt
+   96  cat ex2.txt
+   97  nano ex2.sh
+   98  ls
+   99  bash ex2.sh
+  100  ls
+  101  cat ex2.txt
+  102  history > ex3.txt
+  103  cat ex.txt
+  104  cat ex2.txt
+  105  nano ex2.sh
+  106  bash ex2.sh
+  107  cd
+  108  vim hello.sh
+  109  sudo apt install vim
+  110  vim hello.sh
+  111  ls
+  112  vim hello.sh
+  113  bash hello.sh
+  114  ls
+  115  cd week 1
+  116  cd week1
+  117  ls
+  118  gedit ex2.sh
+  119  nano ex2.sh
+  120  rmdir -f ex3.txt
+  121  sh ex2.sh
+  122  history > ex2.txt
+  123  nano ex2.sh
+  124  sh ex2.sh
+  125  nano ex2.sh
+  126  sh ex2.sh
+  127  ls
+  128  bahs ex2.sh
+  129  bash ex2.sh
+  130  ls
+  131  man sh
+  132  sh ex2.sh
+  133  gedit ex69.sh
+  134  sh ex69.sh
+  135  gedit ex69.sh
+  136  sh ex69.sh
+  137  history > ex2.txt
