@@ -12,7 +12,7 @@ int main()
     }
     for(int i=0; i<N; i++)
     {
-        printf("arr[%d]=%d\n", i, array[i]);
+        printf("Array[%d]=%d\n", i, array[i]);
     }
     free(array);
 }
