@@ -1,0 +1,8 @@
+C:\Users\MoaidHashem>systeminfo | find "Physical Memory"
+Total Physical Memory:     15,742 MB
+Available Physical Memory: 9,523 MB
+
+C:\Users\MoaidHashem>systeminfo | find "Virtual Memory"
+Virtual Memory: Max Size:  18,223 MB
+Virtual Memory: Available: 10,347 MB
+Virtual Memory: In Use:    7,876 MB
