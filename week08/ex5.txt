@@ -1,0 +1,3 @@
+Physical Address: from it's name it means an actual(physical) location in memory (RAM) that contains data.
+Virtual Address: The address that is used by processes and it corresponds to physical address.
+The page table is used to translate between the two diffrent addresses.
