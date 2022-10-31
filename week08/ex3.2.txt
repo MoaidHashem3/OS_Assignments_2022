@@ -1,0 +1,39 @@
+top - 19:18:43 up 47 min,  1 user,  load average: 0,49, 0,47, 0,60
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,9 us,  0,6 sy,  0,0 ni, 94,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7950,3 total,   2993,8 free,   2250,2 used,   2706,3 buff/cache
+MiB Swap:   2048,0 total,   2048,0 free,      0,0 used.   5346,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                               
+    940 mophoen+  20   0 4059412 370992 136728 S   4,1   4,6   5:48.72 gnome-shell                                                           
+   5028 mophoen+  20   0  573520  55844  42400 S   0,9   0,7   0:05.66 gnome-terminal-                                                       
+     14 root      20   0       0      0      0 I   0,3   0,0   0:01.78 rcu_sched                                                             
+    402 systemd+  20   0   14824   6112   5316 S   0,3   0,1   0:03.78 systemd-oomd                                                          
+   1406 mophoen+  20   0  172128   7368   6748 S   0,3   0,1   0:00.91 ibus-engine-sim                                                       
+   3846 mophoen+  20   0   54,7g 248960 126016 S   0,3   3,1   1:03.44 code                                                                  
+   4871 root      20   0       0      0      0 I   0,3   0,0   0:00.77 kworker/0:2-mm_percpu_wq                                              
+      1 root      20   0  168064  13240   8240 S   0,0   0,2   0:02.53 systemd                                                               
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd                                                              
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp                                                                
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par_gp                                                            
+      5 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 netns                                                                 
+      7 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 kworker/0:0H-events_highpri                                           
+      9 root       0 -20       0      0      0 I   0,0   0,0   0:00.69 kworker/0:1H-events_highpri                                           
+     10 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 mm_percpu_wq                                                          
+     11 root      20   0       0      0      0 S   0,0   0,0   0:00.00 rcu_tasks_rude_                                                       
+     12 root      20   0       0      0      0 S   0,0   0,0   0:00.00 rcu_tasks_trace                                                       
+     13 root      20   0       0      0      0 S   0,0   0,0   0:00.70 ksoftirqd/0                                                           
+     15 root      rt   0       0      0      0 S   0,0   0,0   0:00.03 migration/0                                                           
+     16 root     -51   0       0      0      0 S   0,0   0,0   0:00.00 idle_inject/0                                                         
+     18 root      20   0       0      0      0 S   0,0   0,0   0:00.00 cpuhp/0                                                               
+     19 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kdevtmpfs                                                             
+     20 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 inet_frag_wq                                                          
+     21 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kauditd                                                               
+     22 root      20   0       0      0      0 S   0,0   0,0   0:00.00 khungtaskd                                                            
+     23 root      20   0       0      0      0 S   0,0   0,0   0:00.00 oom_reaper                                                            
+     24 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 writeback                                                             
+     25 root      20   0       0      0      0 S   0,0   0,0   0:00.22 kcompactd0                                                            
+     26 root      25   5       0      0      0 S   0,0   0,0   0:00.00 ksmd                                                                  
+     27 root      39  19       0      0      0 S   0,0   0,0   0:00.00 khugepaged                                                            
+     73 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 kintegrityd                                                           
+[1]+  Done                    ./a.out

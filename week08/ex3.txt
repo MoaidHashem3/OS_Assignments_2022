@@ -1,0 +1,22 @@
+top - 19:11:07 up 39 min,  1 user,  load average: 0,55, 0,71, 0,77
+Tasks: 207 total,   3 running, 204 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 62,0 us,  7,6 sy,  0,0 ni, 30,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7950,3 total,   2914,7 free,   2325,9 used,   2709,7 buff/cache
+MiB Swap:   2048,0 total,   2048,0 free,      0,0 used.   5266,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                     
+    940 mophoen+  20   0 4059364 370984 136660 S  50,5   4,6   5:08.44 gnome-shell                                                                 
+   2968 mophoen+  20   0 3962612 558852 194728 S   7,5   6,9   2:06.45 firefox                                                                     
+   5028 mophoen+  20   0  576940  51148  38676 R   5,4   0,6   0:00.65 gnome-terminal-                                                             
+    361 root     -51   0       0      0      0 S   1,1   0,0   0:00.69 irq/18-vmwgfx                                                               
+    402 systemd+  20   0   14824   6112   5316 S   1,1   0,1   0:03.16 systemd-oomd                                                                
+   1863 mophoen+  20   0  231808  91040  69572 S   1,1   1,1   0:17.23 Xwayland                                                                    
+      1 root      20   0  168064  13240   8240 S   0,0   0,2   0:02.52 systemd                                                                     
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd                                                                    
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp                                                                      
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par_gp                                                                  
+      5 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 netns                                                                       
+      7 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 kworker/0:0H-events_highpri                                                 
+      9 root       0 -20       0      0      0 I   0,0   0,0   0:00.66 kworker/0:1H-events_highpri                                                 
+     10 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 mm_percpu_wq                                                                
+     11 root      20   0       0      0      0 S   0,0   0,0   0:00.00 rcu_tasks_rude_                         
