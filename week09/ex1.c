@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     }
     sscanf(argv[1], "%d", &n);
 
-    FILE* fp = fopen("Lap 09 input.txt", "r");
+    FILE* fp = fopen("input.txt", "r");
     if(fp == NULL)
     {
         printf("Error while opening file\n");
